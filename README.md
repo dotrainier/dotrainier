@@ -53,10 +53,6 @@ Backend and full-stack developer who enjoys building useful tools for developers
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
 
-## GitHub Stats
 
-![dotrainier's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotrainier&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dotrainier&layout=compact&theme=dark&hide_border=true)
