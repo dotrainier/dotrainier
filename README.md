@@ -1,3 +1,4 @@
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=dotrainier&color=0e75b6&style=flat&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rainiersapin)
@@ -5,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://dotrainier.me)
 
 ---
-
+-->
 ## About Me
 
 Backend and full-stack developer who enjoys building useful tools for developers and solving real-world problems through clean, maintainable systems. I care about writing code that is easy to reason about — from database architecture and API design to responsive, functional interfaces.
